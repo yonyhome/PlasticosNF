@@ -278,7 +278,7 @@ export function Contact() {
                           disabled={isDisabled}
                           value={form.phone}
                           onChange={(e) => setForm({ ...form, phone: e.target.value })}
-                          placeholder="+57 300 000 0000"
+                          placeholder="+57 302 428 1733"
                           className={inputCls}
                           maxLength={25}
                         />

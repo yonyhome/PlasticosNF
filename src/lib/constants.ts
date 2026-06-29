@@ -6,7 +6,7 @@ export const COMPANY = {
     "Fabricación y distribución de bolsas plásticas, rollos industriales y soluciones de empaque al por mayor y detal.",
   location: "Barranquilla, Atlántico, Colombia",
   address: "Vía 40, Zona Industrial, Barranquilla, Colombia",
-  phone: "+57 300 000 0000",
+  phone: "+57 302 428 1733",
   whatsapp: "573000000000",
   email: "ventas@plasticosnf.com",
   hours: "Lunes a Viernes 7:00 AM — 5:00 PM",
