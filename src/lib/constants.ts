@@ -7,7 +7,7 @@ export const COMPANY = {
   location: "Barranquilla, Atlántico, Colombia",
   address: "Vía 40, Zona Industrial, Barranquilla, Colombia",
   phone: "+57 302 428 1733",
-  whatsapp: "573000000000",
+  whatsapp: "573024281733",
   email: "ventas@plasticosnf.com",
   hours: "Lunes a Viernes 7:00 AM — 5:00 PM",
   founded: 2008,
@@ -33,7 +33,7 @@ export const NAV_LINKS = [
 
 export const STATS = [
   { value: "15+", label: "Años de experiencia", suffix: "" },
-  { value: "500", label: "Clientes activos", suffix: "+" },
+  { value: "50", label: "Clientes activos", suffix: "+" },
   { value: "12", label: "Sectores industriales", suffix: "" },
   { value: "8M", label: "Unidades producidas/mes", suffix: "" },
 ] as const;
