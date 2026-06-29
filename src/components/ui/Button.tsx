@@ -7,7 +7,8 @@ import { forwardRef } from "react";
 type Variant = "electric" | "outline" | "ghost" | "glass";
 type Size = "sm" | "md" | "lg" | "xl";
 
-interface ButtonProps extends Omit<HTMLMotionProps<"button">, "ref"> {
+interface ButtonProps extends Omit<HTMLMotionProps<"button">, "ref" | "children"> {
+  children?: React.ReactNode;
   variant?: Variant;
   size?: Size;
   icon?: React.ReactNode;
