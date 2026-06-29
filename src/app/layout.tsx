@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import { Inter, Montserrat, Poppins } from "next/font/google";
 import "./globals.css";
 import { COMPANY } from "@/lib/constants";
+import { GoogleAnalytics } from "@/components/analytics/GoogleAnalytics";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -132,6 +133,7 @@ export default function RootLayout({
       className={`${inter.variable} ${montserrat.variable} ${poppins.variable}`}
     >
       <body className="bg-carbon text-platinum font-sans antialiased">
+        <GoogleAnalytics />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}

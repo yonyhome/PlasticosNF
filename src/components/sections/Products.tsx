@@ -67,7 +67,7 @@ const PRODUCTS = [
     description:
       "Diseño y producción de empaques con tu marca, hasta 6 tintas con impresión flexográfica de alta definición.",
     image:
-      "/images/products/personalizado.png",
+      "/images/products/personalizado.jpg",
     features: ["Diseño con tu marca", "6 tintas", "Producción a medida"],
     category: "BRANDING",
     accent: "from-electric to-electric-glow",
@@ -78,7 +78,7 @@ const PRODUCTS = [
     description:
       "Fabricamos según especificación: medida, calibre, color, material y volumen para industria y comercio.",
     image:
-      "/images/products/medidas.jpg",
+      "/images/products/medida.jpg",
     features: ["Especificación a medida", "Material certificado", "Volúmenes altos"],
     category: "OEM",
     accent: "from-electric-glow to-electric",

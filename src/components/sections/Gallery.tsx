@@ -7,25 +7,25 @@ import { SectionHeader } from "@/components/ui/SectionHeader";
 
 const GALLERY_IMAGES = [
   {
-    src: "/images/gallery/1.jpg",
+    src: "/images/gallery/01.jpg",
     alt: "Extrusora industrial en operación",
     span: "col-span-2 row-span-2",
     label: "Extrusión",
   },
   {
-    src: "/images/gallery/2.jpg",
+    src: "/images/gallery/02.jpg",
     alt: "Rollos plásticos industriales",
     span: "col-span-1 row-span-1",
     label: "Bobinado",
   },
   {
-    src: "/images/gallery/3.png",
+    src: "/images/gallery/03.jpg",
     alt: "Impresión flexográfica industrial",
     span: "col-span-1 row-span-1",
     label: "Impresión",
   },
   {
-    src: "/images/gallery/04.png",
+    src: "/images/gallery/04.jpg",
     alt: "Bodega de distribución logística",
     span: "col-span-2 row-span-1",
     label: "Distribución",

@@ -28,7 +28,7 @@ const MACHINES = [
     description:
       "Impresión flexográfica de hasta 6 tintas con registro de alta precisión y secado UV de última generación.",
     image:
-      "/images/machinery/flexografica.png",
+      "/images/machinery/flexografica.jpg",
     specs: [
       { icon: Activity, label: "Velocidad", value: "300 m/min" },
       { icon: Gauge, label: "Tintas", value: "6 colores" },
@@ -42,7 +42,7 @@ const MACHINES = [
     description:
       "Sistema de sellado térmico de alta precisión con control de temperatura programable y conversión automática.",
     image:
-      "/images/machinery/selladora.png",
+      "/images/machinery/selladora.jpg",
     specs: [
       { icon: Activity, label: "Producción", value: "8K/h" },
       { icon: Gauge, label: "Temperatura", value: "300°C" },
